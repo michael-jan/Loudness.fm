@@ -4,7 +4,7 @@ I'm Michael, creator and sole maintainer of Loudness.fm.
 
 **Unfortunately, I have to shut down the site. Refunds will be processed by the end of August.**
 
-Thank you for using Loudness. I made Loudness because I always dreamed of making something that could provide value to others. I hope I have provided value to you these past years.
+Thank you for using Loudness ❤️ I made Loudness because I always dreamed of making something that could provide value to others. I hope I have provided value to you these past years.
 
 Ultimately, the ground has shifted beneath me, and recent platform changes have broken Loudness to the point where fixing it would require time and resources which I do not have.
  
