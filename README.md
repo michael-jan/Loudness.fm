@@ -4,11 +4,11 @@ I'm Michael, creator and sole maintainer of Loudness.fm.
 
 **Unfortunately, I have to shut down the site. Refunds will be processed by the end of August.**
 
-Thank you for using Loudness ❤️ I made Loudness because I always dreamed of making something that could provide value to others. I hope I have provided value to you these past years.
+Thank you for using Loudness ❤️ I made Loudness because I had always dreamed of making something that could provide value to others. I hope I've provided value to you these past years.
 
-Ultimately, the ground has shifted beneath me, and recent platform changes have broken Loudness to the point where fixing it would require time and resources which I do not have.
+Ultimately, the ground has shifted beneath me, and recent platform changes have broken Loudness to the point where fixing it would require time and resources which I do not have. If you are looking for a good alternative, I'd recommend [Auphonic](https://auphonic.com/).
  
-Thank you for taking part in my journey. I'll always look back fondly on those late nights I spent building Loudness in college :) And I am grateful that I got to make something that helped so many people for a time.
+Thank you for being a part of my journey. I'll always look back fondly on those late nights I spent building Loudness in college :) And I am grateful that I got to make something that helped so many people for a time.
 
 With love,\
 Michael from Loudness
